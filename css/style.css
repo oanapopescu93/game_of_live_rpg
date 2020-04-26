@@ -1,0 +1,9 @@
+body{
+	background:black;
+	color:white;
+	font-family:courier new;
+}
+#myCanvas{	
+	margin:0px auto;
+	display: block;
+}
